@@ -16,14 +16,17 @@ OR - npm install -g gatsby-cli
 
 2:- Run for command for localhost url or live url 
 
- After installed global gatsby cli packages then run "gatsby develop" to start the local host server copy the http://localhost:8000 and Hitting http://localhost:8000 in browser only for local.
+ After installed global gatsby cli packages then run "gatsby develop" to start the local host server 
+ copy the http://localhost:8000 and Hitting http://localhost:8000 in browser only for local.
 
-If you want to get project url link in live server or local server like folder structure then run the command - "gatsby build" and then hit url like - http://demo.com/gatsby/ OR - http://demo.com/gatsby/gatsby_blog/public/ . Here is the screenshot - https://prnt.sc/pyksaz
+If you want to get project url link in live server or local server like folder structure then run the command - "gatsby build" and then
+hit url like - http://demo.com/gatsby/ OR - http://demo.com/gatsby/gatsby_blog/public/ . Here is the screenshot - https://prnt.sc/pyksaz
 
 Let’s take a quick tour of Gatsby.
 ----------------------------------------
 
-Open your project directory in your editor of choice and navigate to src/pages. You’ll see a file each for the index page (which you just saw above), an example of a second page, and a 404 page.
+Open your project directory in your editor of choice and navigate to src/pages. You’ll see a file each for the index page
+(which you just saw above), an example of a second page, and a 404 page.
 
 Taking a look at index.js, you’ll see a <Layout> component wrapping some markup that you see on the index page.
 
